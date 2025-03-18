@@ -1,0 +1,1 @@
+- inspired from https://www.analyticsvidhya.com/blog/2024/06/agentic-workflow-with-crewai-and-groq/
