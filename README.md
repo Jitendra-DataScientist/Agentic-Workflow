@@ -3,6 +3,7 @@
 	- SERPER_API_KEY=<your_serper_api_key>
 	- GROQ_API_KEY=<your_groq_api_key>
 - didn't work as expected. Was getting this error:
+
 (isolate) (base) jnayak@innovationai:~/petonic_trials/Agentic Workflow$ python app.py
 /home/jnayak/petonic_trials/Agentic Workflow/isolate/lib/python3.11/site-packages/pydantic/_internal/_config.py:295: PydanticDeprecatedSince20: Support for class-based `config` is deprecated, use ConfigDict instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.10/migration/
   warnings.warn(DEPRECATION_MESSAGE, DeprecationWarning)
