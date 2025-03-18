@@ -1,1 +1,4 @@
 - inspired from https://www.analyticsvidhya.com/blog/2024/06/agentic-workflow-with-crewai-and-groq/
+- after cloning the repo, one needs to create a .env file in the project directory with these 2 keys:
+	- SERPER_API_KEY=<your_serper_api_key>
+	- GROQ_API_KEY=<your_groq_api_key>
